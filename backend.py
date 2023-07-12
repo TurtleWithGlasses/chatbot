@@ -1,6 +1,6 @@
 import openai
 
-api_key = "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"
+api_key = "YOUR API KEY"
 
 
 class Chatbot:
